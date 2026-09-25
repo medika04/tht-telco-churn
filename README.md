@@ -26,8 +26,12 @@ Customer retention is crucial for the telecom industry. This project analyzes cu
 
 ## 📊 Power BI Dashboard Preview
 *Here is a snapshot of the RFM Segmentation & Customer Value Dashboard built for this project:*
+![Dashboard Preview](https://github.com/medika04/tht-telco-churn/blob/main/Screenshot%202026-09-24%20212541.png)
+![Dashboard Preview](https://github.com/medika04/tht-telco-churn/blob/main/Screenshot%202026-09-24%20212949.png)
+![Dashboard Preview](https://github.com/medika04/tht-telco-churn/blob/main/Screenshot%202026-09-24%20213545.png)
+![Dashboard Preview](https://github.com/medika04/tht-telco-churn/blob/main/Screenshot%202026-09-24%20213555.png)
 
-> *(Tip: Upload your dashboard screenshot image into your GitHub repository, for example in an `assets/` folder, then link it here like this: `![Dashboard Preview](assets/dashboard_preview.png)`)*
+
 
 ---
 
